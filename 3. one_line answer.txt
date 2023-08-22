@@ -1,0 +1,18 @@
+ Question 3 -  One-Line Answers (Answers to be written on .txt file)
+
+
+A. What is reverse-i-search in a Linux terminal?
+
+Ans - Reverse-i-search, also known as "reverse incremental search," is a feature available in many Linux terminal emulators, including the popular one called Bash.
+
+B. How do you list out the hidden directories using Linux command line tool?
+
+Ans -  To list out hidden directories using the Linux command line tool, use the command: ls -a
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+
+Ans - I am comfortable with using Linux-based operating systems like Ubuntu, CentOS, etc.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+Ans - Yes, I've used servers to host web applications, including services like Apache, Nginx, FTP, SMTP, etc.
