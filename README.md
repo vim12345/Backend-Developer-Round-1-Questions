@@ -40,8 +40,3 @@ B. How do you list out the hidden directories using Linux command line tool?
 C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
 D. Have you ever used Servers to host any web applications in the past? If yes, what
 services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
-Things to keep in mind before starting1. You need to share the link of your Git (GitHub/GitLab/BitBucket) repository link (We won’t be accepting
-any attachments/screenshots/notebook photos for your answers).
-Only the <filename>.py file should be uploaded for 1&2 ques. Do not upload <filename>.ipnb file
-2. You’re advised to submit if you can complete at least one of the coding solutions along with the oneline answers. (Only submitting the answer to 3rd question will result in direct disqualification)
-3. All 3 questions are mandatory. There are no optional questions.
